@@ -16,4 +16,4 @@ I have used different technologies such as Python, Amazon Web Services (AWS), Ap
 
 
 ## Dataset Used
-Dataset I used - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
+Dataset I used - https://github.com/ambdasa/kafka-stock-market-analysis-project/blob/main/indexProcessed.csv
